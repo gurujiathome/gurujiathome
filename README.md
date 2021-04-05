@@ -1,10 +1,18 @@
-- 👋 Hi, I’m @gurujiathome
-- 👀 I’m interested in developing ionic applications
-- 🌱 I’m currently learning Spring
-- 💞️ I’m looking to collaborate on Long term projects 
-- 📫 How to reach me ... contact me on gurututorialsforu@gmail.com
+<p align="center">
+    <img alt = "GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=gurujiathome&show_icons=true&title_color=fff&icon_color=79ff97&text_color=ffffff&bg_color=151515">
+    <br>
+    <img alt = "Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gurujiathome&hide=html,css&hide_border=true&title_color=5391FE&text_color=555"
+</p>
+  
+  
 
-<!---
-gurujiathome/gurujiathome is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+
+- 🔭 I’m active OpenSource Developer
+- 🌱 I’m currently exploring more in programming world machine learning, Data Science,Java etc.
+- 👯 I’m looking to collaborate on OpenSource Python projects
+- 💬 Ask me about anything [here](https://github.com/gurujiathome)
+- 📫 How to reach me: **gurututorialsforu@gmail.com**
+- ⚡ Fun fact: I did MTECH in E&TC
+
+
